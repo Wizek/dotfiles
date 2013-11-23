@@ -1,0 +1,10 @@
+<!-- See http://www.sublimetext.com/docs/snippets for more information -->
+<snippet>
+	<content><![CDATA[class=""]]></content>
+	<!-- Optional: Tab trigger to activate the snippet -->
+	<tabTrigger>c</tabTrigger>
+	<!-- Optional: Scope the tab trigger will be active in -->
+	<scope>source.HTML</scope>
+	<!-- Optional: Description to show in the menu -->	
+	<description>class</description>
+</snippet>

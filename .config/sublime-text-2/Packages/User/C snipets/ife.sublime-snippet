@@ -1,0 +1,10 @@
+<snippet>
+	<description>If ... else ... Condition</description>
+    <content><![CDATA[if ($1) {
+	$2
+} else {
+  $3
+}]]></content>
+    <tabTrigger>ife</tabTrigger>
+    <scope>source.c, source.objc, source.c++, source.objc++</scope>
+</snippet>

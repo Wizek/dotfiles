@@ -1,0 +1,10 @@
+<!-- See http://www.sublimetext.com/docs/snippets for more information -->
+<snippet>
+  <content><![CDATA[JSON.stringify(${0:$TM_SELECTED_TEXT})]]></content>
+  <!-- Optional: Tab trigger to activate the snippet -->
+  <tabTrigger>J</tabTrigger>
+  <!-- Optional: Scope the tab trigger will be active in -->
+  <scope>source.js</scope>
+  <!-- Optional: Description to show in the menu -->  
+  <description>JSON stringify</description>
+</snippet>

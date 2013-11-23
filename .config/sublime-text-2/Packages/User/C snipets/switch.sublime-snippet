@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[switch (${1:variable}) {
+  case $2:
+    $4
+    break;
+  case $3:
+    $5
+    break;
+  default:
+    $6
+    break;
+}]]></content>
+    <tabTrigger>switch</tabTrigger>
+    <scope>source.c, source.objc, source.c++, source.objc++</scope>
+</snippet>

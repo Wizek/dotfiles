@@ -1,0 +1,13 @@
+[
+  { "keys": ["c", "tab"], "command": "insert_snippet", "args": {"contents":
+    "console.log(${0:$SELECTION})"
+  }},
+  // { "keys": ["c", "tab"], "command": "insert_snippet", "args": ""},
+  { "keys": ["ctrl+j"], "command": "join_lines" },
+  { "keys": ["ctrl+6"], "command": "toggle_comment", "args": { "block": false } },
+  { "keys": ["ctrl+shift+6"], "command": "toggle_comment", "args": { "block": true } },
+  { "keys": ["ctrl+alt+left"], "command": "previous_edit" },
+  { "keys": ["ctrl+alt+right"], "command": "next_edit" },
+  { "keys": ["ctrl+alt+f"], "command":  ""},
+  { "keys": ["ctrl+y"], "command": "cucumber_step_finder" }
+]

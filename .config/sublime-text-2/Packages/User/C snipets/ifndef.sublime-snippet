@@ -1,0 +1,12 @@
+<snippet>
+  <description>ifndef</description>
+    <content><![CDATA[#ifndef $1_h
+  #define $1_h
+
+  $2
+
+  #include "$1.c"
+#endif]]></content>
+    <tabTrigger>ifnd</tabTrigger>
+    <scope>source.h, source.objc, source.c++</scope>
+</snippet>

@@ -1,0 +1,79 @@
+{
+	"auto_complete_selector": "source - comment, meta.tag - punctuation.definition.tag.begin, text.haml",
+	"caret_style": "wide",
+	"close_windows_when_empty": true,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"default_line_ending": "unix",
+	"dictionary": "Packages/Language - English/en_GB.dic",
+	"draw_indent_guides": true,
+	"draw_minimap_border": false,
+	"draw_white_space": "selection",
+	"ensure_newline_at_eof_on_save": true,
+	"font_options":
+	[
+		"directwrite",
+		"subpixel_antialias"
+	],
+	"font_size": 11,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"LiveReload",
+		"Vintage",
+		"ZenCoding",
+		"SideBarGit",
+		"SideBarEnhancements",
+		"SublimeGit"
+	],
+	"ignored_words":
+	[
+		"Lojban",
+		"Memrise",
+		"Memrise's",
+		"Node.js",
+		"Shouldjs",
+		"Tree.js",
+		"Wiktionary",
+		"app",
+		"async",
+		"bridi",
+		"cmavo",
+		"e.g",
+		"gismu",
+		"mem",
+		"mems",
+		"text/javascript",
+		"tl;dr",
+		"wiktionary",
+		"wordset",
+		"wordset",
+		"wordsets",
+		"wordsets",
+		"wordsets"
+	],
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
+	"margin": 0,
+	"match_brackets_angle": true,
+	"new_window_settings":
+	{
+		"show_tabs": false
+	},
+	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		79
+	],
+	"save_on_focus_lost": false,
+	"scroll_speed": 0.6,
+	"shift_tab_unindent": true,
+	"show_tab_close_buttons": false,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?",
+	"word_wrap": "auto"
+}

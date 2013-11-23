@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[tree.branch('$1', function(tree) {
+  $2
+  tree.done(-1)
+})]]></content>
+	<tabTrigger>br</tabTrigger>
+	<scope>source.js</scope>
+	<description>tree.branch()</description>
+</snippet>

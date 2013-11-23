@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[db(dbName+'.$1')$2]]></content>
+	<tabTrigger>d</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mongous interaction</description>
+</snippet>
