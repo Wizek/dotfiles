@@ -1,0 +1,7 @@
+*~
+.DS_Store
+
+*.sublime-*
+*.hi
+*.o
+node_modules_*
