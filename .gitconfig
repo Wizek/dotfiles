@@ -1,11 +1,11 @@
 [user]
-	name = Milán Nagy
-	email = 123.wizek@gmail.com
+  name = Milán Nagy
+  email = 123.wizek@gmail.com
 [credential]
-	helper = cache --timeout=3600
+  helper = cache --timeout=3600
 
 [color]
-	ui = true
+  ui = true
   branch = auto
   diff = auto
   status = auto
@@ -27,7 +27,7 @@
   prompt = cyan
 
 [alias]
-	dt = difftool --dir-diff
+  dt = difftool --dir-diff
   co = checkout
   ci = commit
   st = status
@@ -54,15 +54,15 @@
   tool = bcompare
 
 [difftool "bc3"]
-	cmd = /usr/local/bin/bc3.sh
+  cmd = /usr/local/bin/bc3.sh
 [core]
-	editor = sublime-text -n -w
+  editor = sublime-text -n -w
 [giggle]
-	main-window-maximized = true
-	main-window-geometry = 700x550+114+24
-	history-view-vpane-position = 238
-	file-view-vpane-position = 1095
-	main-window-view = FileView
-	show-graph = true
+  main-window-maximized = true
+  main-window-geometry = 700x550+114+24
+  history-view-vpane-position = 238
+  file-view-vpane-position = 1095
+  main-window-view = FileView
+  show-graph = true
 [push]
-	default = simple
+  default = simple
